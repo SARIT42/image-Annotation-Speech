@@ -7,7 +7,6 @@ To view/edit the full model,visit my kaggle notebook :
 
 Upvotes & Suggestions are appreciated!
 
-![Cr7CristianoRonaldoGIF](https://user-images.githubusercontent.com/77446629/201628920-13beb65d-0ab9-45fd-8e04-c3ed574d9256.gif)
 
 
 
